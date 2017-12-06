@@ -1,3 +1,3 @@
-## Welcome to GitHub Pages
+## OBIS_project
 
-You can use the [editor on GitHub](https://github.com/BeatBrackerz/OBIS_project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Semesterprojekt für Ortsbezogene Informationssysteme
